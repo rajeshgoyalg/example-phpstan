@@ -1,5 +1,5 @@
 An example project that uses [php-actions/phpstan][action-link]
-===
+====
 
 This is a trivial project that holds only simple example functionality: a greeter that can greet you by name.
 
